@@ -31,5 +31,6 @@ http://localhost:4004/feproject-ui/webapp/index.html
 #### Pre-requisites:
 
 1. Active NodeJS LTS (Long Term Support) version and associated supported NPM version.  (See https://nodejs.org)
-
+https://www.youtube.com/watch?v=ks8oHIF3xSs
+https://community.sap.com/t5/technology-blog-posts-by-sap/build-and-deploy-a-cap-project-node-js-api-with-a-sap-fiori-elements-ui-and/ba-p/13537906
 
