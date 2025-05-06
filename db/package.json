@@ -8,6 +8,8 @@
     "node": ">=18"
   },
   "scripts": {
-    "start": "node node_modules/@sap/hdi-deploy/deploy.js --use-hdb"
+    "start": "node node_modules/@sap/hdi-deploy/deploy.js --use-hdb",
+    "build": "npx rimraf resources mta_archives && mbt build --mtar archive",
+    "deploy": "cf deploy mta_archives/archive.mtar --retries 1"
   }
 }
