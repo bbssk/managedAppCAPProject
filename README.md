@@ -23,3 +23,5 @@ File or Folder | Purpose
 ## Learn More
 
 Learn more at https://cap.cloud.sap/docs/get-started/.
+https://www.youtube.com/watch?v=ks8oHIF3xSs
+https://community.sap.com/t5/technology-blog-posts-by-sap/build-and-deploy-a-cap-project-node-js-api-with-a-sap-fiori-elements-ui-and/ba-p/13537906
